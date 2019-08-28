@@ -1,0 +1,5 @@
+Syllabus Qs
+**************
+1. Neural networks (deep learning).
+2. Storytelling 
+3. The Python part of the course is scaring me a bit because I did not use Python before. 
